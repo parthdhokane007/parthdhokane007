@@ -1,226 +1,10 @@
-- 👋 Hi, I’m @parthdhokane007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-parthdhokane007/parthdhokane007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<script type="text/javascript">Object.defineProperty(window.navigator, 'userAgent', { get: function(){ return 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36/8mqAoGuL-19'; } });Object.defineProperty(window.navigator, 'plugins', { get: function () { return [{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Microsoft Edge PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Chromium PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"WebKit built-in PDF","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/autoUpgrade","suffixes":"","description":""},"name":"autoUpgrade","description":"automatic Upgrade plugin","filename":"autoUpgrade.dll"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Chrome PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"}];},enumerable: true,configurable: true});</script>
-
-
-Object.defineProperty(window.navigator, 'userAgent', { get: function(){ return 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36/4erS7ObW-66'; } });Object.defineProperty(window.navigator, 'plugins', { get: function () { return [{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"WebKit built-in PDF","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Chrome PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Chromium PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Microsoft Edge PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/block-it","suffixes":"","description":""},"name":"BlockIt","description":"Block it","filename":"blockit.dll"},{"0":{"type":"application/vt-audio","suffixes":"","description":""},"name":"VT AudioPlayback","description":"VT audio playback","filename":"vtaudioplayback.dll"}];},enumerable: true,configurable: true});
-<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"><script type="text/javascript">Object.defineProperty(window.navigator, 'userAgent', { get: function(){ return 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36/4erS7ObW-66'; } });Object.defineProperty(window.navigator, 'plugins', { get: function () { return [{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"WebKit built-in PDF","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Chrome PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Chromium PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"Microsoft Edge PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/pdf","suffixes":"pdf","description":"Portable Document Format"},"name":"PDF Viewer","description":"Portable Document Format","filename":"internal-pdf-viewer"},{"0":{"type":"application/block-it","suffixes":"","description":""},"name":"BlockIt","description":"Block it","filename":"blockit.dll"},{"0":{"type":"application/vt-audio","suffixes":"","description":""},"name":"VT AudioPlayback","description":"VT audio playback","filename":"vtaudioplayback.dll"}];},enumerable: true,configurable: true});</script><head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-  <link rel="preconnect" href="https://github.githubassets.com" crossorigin="">
-  <link rel="preconnect" href="https://avatars.githubusercontent.com">
-
-
-
-  <link crossorigin="anonymous" media="all" integrity="sha512-E9wnWjoxQmh5A1jiWVYDPKOvA8VPf0iKQYoc+9ycMJvtAi9gOSlaUci+W2smxFIlWkV8hkX+O27S8NIB59iIDw==" rel="stylesheet" href="https://github.githubassets.com/assets/light-13dc275a3a314268790358e25956033c.css"><link crossorigin="anonymous" media="all" integrity="sha512-nYSv3KrFhMlGUpjkFQBLMEN6HvHhijcoubQLjV3DWlcABEi2yDYf6KGUjRubJ5R+dJnKXR7jA4wu5Dg200SApA==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-9d84afdcaac584c9465298e415004b30.css"><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-73MN8RaWLT6hOrTrxNJOEI8Pb0ArN01fXatO0tqm/qXy73XBb0FG3f8jd0NfztcQGoLTDF6Pl6AxpbnDvgwAiA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-ef730df116962d3ea13ab4ebc4d24e10.css"><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-bOhGZNmild3wSbSBnXK4FdlotedKfGpLBrn2ws0dSVZZaZmQcYoGvkvl1M6L82kHTBkHjonl5pIpbQ9Q066xCw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-6ce84664d9a295ddf049b4819d72b815.css"><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-AwOAfDuSE0kUy1kcP+UA/Gj0G3V2UahdhGF/3XKhrgH+rX5j33z3/p8INmxmpC1TF1XDDPjwJAmvCECOdgDCNw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-0303807c3b92134914cb591c3fe500fc.css"><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-MTr0RUpwD911150L11H/RfSf+jCC9M4JQt6f3rFBXTMZZop9I/2FqEUXDYYBLnTqXTel4Ost6mblHDW5IK7Q5Q==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-313af4454a700fdd75d79d0bd751ff45.css"><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-YtCQQI4gi5fOKm9+JR5jGw5IqvUk4NlWG6r0YRx3SGXtNYMNuVXlTT3X1HZczk1u9vhCYsMevrnz5FfY2lZyWg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-62d090408e208b97ce2a6f7e251e631b.css">
-  <link crossorigin="anonymous" media="all" integrity="sha512-zw7LEKJYRly65tkoCHN9EKkBSW87oNvS/W1iwFRH5uw6orvEHdej1Pom9Hx20gdv+RhaXzHW/3h0QjuAlkhynQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-cf0ecb10a258465cbae6d92808737d10.css">
-  <link crossorigin="anonymous" media="all" integrity="sha512-ZJNZIu4m/yMHniij8/3RBZmeeOpw2TlltviwQV13ZDwe8SvkKS/UHNK/cDsfKXGXLh6sA4k5bPfXjzf2tkFBLw==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-64935922ee26ff23079e28a3f3fdd105.css">
-  <link crossorigin="anonymous" media="all" integrity="sha512-MCJFYfbQoT4EXC6aWx5Wghs8FC/jslHEeN2iWXphliccmede2dQlhIBTAUCBq9Yu5poltu4askungzvyCsycGg==" rel="stylesheet" href="https://github.githubassets.com/assets/tab-size-fix-30224561f6d0a13e045c2e9a5b1e5682.css">
+ <\\syntax start
+ Mj (Kevin Mitnick) is a ✨ special ✨ repository because its `READMEHACKINSTAINFOOFREHU.md`
+SYNTAX END//>
   
-  
-  
-  <link crossorigin="anonymous" media="all" integrity="sha512-ID4WC8toRFFrZ0WwzwiDXBUJgVYUTn4Tpd1lDRvo98lrK18UgscEY6loAJx+s0MUJ9ppEpHOdkCJV1bc92TYOQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-203e160bcb6844516b6745b0cf08835c.css">
-
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-kpMz2WTrXY4m62SKDEVfDwbCiJ46+FC6FSEM/OV7Uod3htViFQMRx8SGZhUG83Yb0CYdaVVU58DE9hi5e6xmPA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-929333d9.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-+cOLzcLgBELaL5Zch/8tt7IfcY/pitJKCKlZAdwBzfkFIMxeFq0BbqpTcPr5wV/FArZA293KtrAliTS0n3O21Q==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-f9c38bcd.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-EJrMWr2CjD94vCgVfSrOYzZ+HxC7+2x71ZjtMspWDIMT3AQqjKor9CRB20G/9FEeYygdlDK2jKflbH3rqK5g/w==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-109acc5a.js"></script>
-  
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-4j+4tPAGF1RQZBkB2OgObLNrSbMk9Ih4IBG800KbUIRZR8ixB7XA/RFAZk4B5CMKXWt32joztWffVw17cFDufA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-e23fb8b4.js"></script>
-  
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ODZJzCJpaOfusrIka5QVZQcPiO9LBGyrrMYjhhJWSLuCN5WbZ5xiEiiOPOKVu71dqygyRdB2TY7AKPA1J5hqdg==" type="application/javascript" data-module-id="./chunk-unveil.js" data-src="https://github.githubassets.com/assets/chunk-unveil-383649cc.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-emPgUbSwW9ezLCgRnTE7n4fbbfc/MqEEDHmnkmG61dTyjWKHTYKN4wN3OPS7SY0fwmSJ8mB5+gng2nZw4/HsUg==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-7a63e051.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ocfEAp6AJvGh4otXKow+AVJ14ysircwHagMkRQ3hoQvuy/U9agyT1cYKYiSYph1VLNaI/aAXwVd2go1pb3DD8A==" type="application/javascript" data-module-id="./chunk-input-demux.js" src="https://github.githubassets.com/assets/chunk-input-demux-a1c7c402.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-tM2UlPYv6Z04ZoFXp/P+9sanpA9adLc2Y8CIfnVE7OvO0Z41BNLEyIIuxIE87D5su+5Q7HREnk5ZBKWPL8IOQg==" type="application/javascript" data-module-id="./chunk-ref-selector.js" src="https://github.githubassets.com/assets/chunk-ref-selector-b4cd9494.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-LsL0Q+kokbEkffjiD0xUiR97zM17wZBt8WBuQwLaLuWpKV3x9rkcZv+A295R8RXTbZuYWZ+OGIEhjSklQjK0vg==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-2ec2f443.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ynV5nM8UuCr4KZ/msFeRxRL6LnG+XUKzIfh6LNIzQ21ecjLVPvm53ghTE54aIuSUaHJWHnsYg8FRzycZIcRHiA==" type="application/javascript" data-module-id="./chunk-edit.js" src="https://github.githubassets.com/assets/chunk-edit-ca75799c.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-MXGEZL0oVRLVvLK6wu1l5FR/EpWpezuX/jtnfpeobOo0ohJcoeNiC335/neqTQHTfK7WXDX1bURWEUy8uzJXQg==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-31718464.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-gmw7obKL/JEHWPp6zWFh+ynbXUFOidj1DN2aPiTDwP8Gair0moVuDmA340LD84A29I3ZPak19CEiumG+oIiseg==" type="application/javascript" data-module-id="./chunk-tag-input.js" src="https://github.githubassets.com/assets/chunk-tag-input-826c3ba1.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Ao9llFIlj54ApuKf2QLboXukbu2h7MHfMmtYHrrsVe1lprKNLiA0usVcRpvruKhfT5STDuWm/GGmyx8ox27hWQ==" type="application/javascript" data-module-id="./chunk-notification-list-focus.js" src="https://github.githubassets.com/assets/chunk-notification-list-focus-028f6594.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-SPWd3rzrxmU6xW6vy1JPWCd+3uWFWmnd0MVGpmw/TpHWUAdLWDqL8kWyC/sBIZJmda4mTtUO1DHJQzAXRSrC+g==" type="application/javascript" data-module-id="./chunk-cookies.js" src="https://github.githubassets.com/assets/chunk-cookies-48f59dde.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-hjey7b0+UFZG85cw5+e+8/fHY3YiTdErWMpFZNpvEATl87TyXDWIAeQpK+KYZgGojs9Df161zUjYHzoDK8qndA==" type="application/javascript" data-module-id="./chunk-async-export.js" data-src="https://github.githubassets.com/assets/chunk-async-export-8637b2ed.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-tw9SApiMkftVBYeb6/VGhEwGNw8tlyBhXc9RVXH4UbCD6u+48uuCMvXf3bxvBdOld0OoYg83SnD2mgJWhdaTiQ==" type="application/javascript" data-module-id="./chunk-premium-runners.js" data-src="https://github.githubassets.com/assets/chunk-premium-runners-b70f5202.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-wCg/G4Q1mgx/gbFVTXch0J8aGE7YGVjE9172v1PS2nYv6uplggTSJkx635qBkztNlBdgdjlOMZWRxjDxafSPRw==" type="application/javascript" data-module-id="./chunk-get-repo-element.js" src="https://github.githubassets.com/assets/chunk-get-repo-element-c0283f1b.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-k2kzNOUPiDU3OiWXAQglTtZ0YxZeh3Q6FTbTHjRYU0ARQc+LMc3QS4UGXZavMMrW7dm0HfRkXdzHfs9ffcxZfA==" type="application/javascript" data-module-id="./chunk-prefetched-provider.js" src="https://github.githubassets.com/assets/chunk-prefetched-provider-93693334.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-xhSAO0KtnFAlRqAK+mg8BPj/J334ccvnCmmjmBQBCgZcsoO9teHJSS6oAn3XOWYFsWPU2JehwG7S3OVEbLwdUg==" type="application/javascript" data-module-id="./chunk-color-modes.js" src="https://github.githubassets.com/assets/chunk-color-modes-c614803b.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-jitxouuFY6SUcDZV5W3jhadVEIfFBfCQZxfPV3kxNnsWEBzbxMJFp0ccLb7+OlBjSs1zU/MNtuOV6T9Ay7lx4w==" type="application/javascript" data-module-id="./chunk-copy.js" src="https://github.githubassets.com/assets/chunk-copy-8e2b71a2.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-gwuBCPcczyGD5IyVEn/uqJXvT07GaVMryQC+ZfDhViO9r2JaqeAc4ooM3cVSjqo4m3IK6Y+boPI8MSf4mLlAgQ==" type="application/javascript" data-module-id="./chunk-voting.js" data-src="https://github.githubassets.com/assets/chunk-voting-830b8108.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-HDsLJf6gAN+WDFaJneJwmIY82XkZKWqeX7tStBLRh1XM53K8vMV6JZvjq/UQXszaNVWxWcuYtgYTG6ZWo8+QSw==" type="application/javascript" data-module-id="./chunk-confetti.js" data-src="https://github.githubassets.com/assets/chunk-confetti-1c3b0b25.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-vAs99bZfAF+pQjzGYSEM/dzYwm4SIxUxrcjdLuatAV6WJu/kfw8+s/SO7In/gHFhCR08sl7a38vA+dDmYAYHyQ==" type="application/javascript" data-module-id="./chunk-codemirror.js" src="https://github.githubassets.com/assets/chunk-codemirror-bc0b3df5.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Gr3ZcJt5t73JeBM3NwOEziKyDZ3HpHwzqZL/c1pgTUfo+6QC5f88XXRw/RT6X2diwqvaa3OVFh0oWsZ9ZxhtdQ==" type="application/javascript" data-module-id="./chunk-tip.js" data-src="https://github.githubassets.com/assets/chunk-tip-1abdd970.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-EdQvlnI4Pu5Q6K0HCvp+mi0Vw9ZuwaEuhbnCbmFKX+c0xwiUWY0L3n9P0F6doLhaHhfpvW3718+miL11WG4BeA==" type="application/javascript" data-module-id="./chunk-line.js" data-src="https://github.githubassets.com/assets/chunk-line-11d42f96.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-4zSHP2sQXPKoN9jFy8q2ThHsQNej8s4qhubSR4g0/2dTexAEnoTG+RbaffdIhmjfghGjpS/DlE0cdSTFEOcipQ==" type="application/javascript" data-module-id="./chunk-array.js" data-src="https://github.githubassets.com/assets/chunk-array-e334873f.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-g8fb6U7h9SkWgiK69nfNMn4aN5D2YBYPZUbCIuLpemWoOw8NOaZY8Z0hPq4RUVs4+bYdCFR6K719k8lwFeUijg==" type="application/javascript" data-module-id="./chunk-band.js" data-src="https://github.githubassets.com/assets/chunk-band-83c7dbe9.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-4GJz2wyWwjq7P4hyx3qSkjvnTO7RG5cWvnePVXPB+Oji6MBVugAdl7kCTKbpX8+Ae2ONvGJwFzSc9A7m1pqzXw==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-e06273db.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-miaiZ1xkDsWBUsURHOmeYtbgVKQGnm1octCo/lDXUmPzDyjtubnHULRVw1AK+sttwdwyB0+LOyhIVAWCNSGx+A==" type="application/javascript" data-module-id="./chunk-delayed-loading-element.js" data-src="https://github.githubassets.com/assets/chunk-delayed-loading-element-9a26a267.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-GD25CNhMGDMzEmeFhUT0FILBupAkx5/CHohnYXOP1togy40O0iu/lASaSp3gV8ue0nwscalJVQqR5gKDRHHDVg==" type="application/javascript" data-module-id="./chunk-three.module.js" data-src="https://github.githubassets.com/assets/chunk-three.module-183db908.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-KZTKdFg9JyLQOyKdb4KuuAfbJ9ujPPJPbt9P8/IERFXBqLOcXBp4+sEN4SWRG3tU5X8mYrH4GaFY2A9LVzZLTg==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-2994ca74.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-vFR+IqThljOLrAWmjhOL/kiQrjgZZg95uPovX0J7kRH5p7Y049LDRZaXLMDijfeqqk71d3MMn9XP5bUcH+lB9w==" type="application/javascript" data-module-id="./chunk-profile.js" data-src="https://github.githubassets.com/assets/chunk-profile-bc547e22.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-W3TFrSn3Iqu38aVxxYxFiNGzaVmLXtGfwRDVRH1RwRvqPVerX1fjQPEYag+HqAoWaGy5ssVFp42oyOIV93afBw==" type="application/javascript" data-module-id="./chunk-overview.js" src="https://github.githubassets.com/assets/chunk-overview-5b74c5ad.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-pTTrav4l7gbsAu4I8D/EeswJmvjNoSDQG+m8IxXwFHEZ1guasobEmCNB3H5gy9brild3bKp5LqpoPzwx631/rA==" type="application/javascript" data-module-id="./chunk-advanced.js" data-src="https://github.githubassets.com/assets/chunk-advanced-a534eb6a.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-6Rmd0BBAsJ9ouvb/pgrkToMPs5ogcqi8rcQ7R3GDPPHIjlu0NZ0Bx6HUn/aOruMCECETHm4Exfs5gjYdHs66RQ==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-e9199dd0.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-5H5N/3G/20nmVKntphXb9z0H9q3URFDmHSccLhFkMSA8ILAA9mYlRKCWAWoDcl/W437jtGw1tIxjWStfInvidw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-e47e4dff.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-6WJL+zyYirKxwD8MNBenuxbMKvCeskXBrXISNlqhV3kltmI8kiSjUX0nDQM3fXeSakcll12sYS8Pli1GFPtG9Q==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-e9624bfb.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-EvJ2Fip59DXgARNuwTWgjdVqoCjhXQL73SP9yexijlWStKq92sfbKeGK5R4wIP0QOr39WsnW/Kaw3Wpl1QPfog==" type="application/javascript" data-module-id="./chunk-edit-hook-secret-element.js" data-src="https://github.githubassets.com/assets/chunk-edit-hook-secret-element-12f27616.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-91JzWtpBUoC7Z4dQpeXRegjwCMooGPFtg/vXxaIGVTxguoOcI/hEdyM7otQGRNQmMencK71thI0oGt11Wgfrww==" type="application/javascript" data-module-id="./chunk-insights-query.js" data-src="https://github.githubassets.com/assets/chunk-insights-query-f752735a.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ySdUENYEBMcTMRqhu0hVPVoUQfqjCkRuNy9wtKP3bEcYkMVYCSfEK4HJUTbuu3r4R7b9i6cGRHh8O3fA2/Jqyw==" type="application/javascript" data-module-id="./chunk-remote-clipboard-copy.js" data-src="https://github.githubassets.com/assets/chunk-remote-clipboard-copy-c9275410.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-eO/r0W5ywI2kxVkcH8yquw3n5Gh+cA8lVOgxd+ecgJYU81FB4Q5FqFxgHhx1omigPwexB4ltwXBMDhSeW6qNeQ==" type="application/javascript" data-module-id="./chunk-series-table.js" data-src="https://github.githubassets.com/assets/chunk-series-table-78efebd1.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-eCSMVL1aAfhWSme4/3seObqN3HNdkxWVKaAX5bmZmxIXZdv0ixnuFJeESYdLeMED/wQETtQ971A03mLF3ZX8eQ==" type="application/javascript" data-module-id="./chunk-line-chart.js" data-src="https://github.githubassets.com/assets/chunk-line-chart-78248c54.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-rZhcZvsxbGBxibYeNv4aHYZkgZzW6xnRcAqmuOCbq/ehJgr75pxgiV7HrGrYrX9HNmyH8T+90HC9WSBZNM4L3g==" type="application/javascript" data-module-id="./chunk-bar-chart.js" data-src="https://github.githubassets.com/assets/chunk-bar-chart-ad985c66.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-/QP5yDdYoor56F2+SyPr/8a9FtvCZnnGP0d+lSAHQR5n+xYjaiY6LjJGB/x1cevAH8r4XY/axNN9fRWIfbwAcA==" type="application/javascript" data-module-id="./chunk-stacked-area-chart.js" data-src="https://github.githubassets.com/assets/chunk-stacked-area-chart-fd03f9c8.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-3Z8SrZGDj5Zn0mxw+2TebgdD8qZ5VMBhjLLWWN9omTCO/jJm0qwzEq1X1WCiiRNsUdMTsdidQjAydXroWhJ/jw==" type="application/javascript" data-module-id="./chunk-presence-avatars.js" data-src="https://github.githubassets.com/assets/chunk-presence-avatars-dd9f12ad.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-MM4pnf2QNKa1zT7uRJuREbRqdt+VJpGXqIzROWMu/Nb4GySJcZagN8mmcIX4fKGBL1B5SilZ7M8BbkEFO3I+0g==" type="application/javascript" data-module-id="./chunk-pulse-authors-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-pulse-authors-graph-element-30ce299d.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-aNAcFMlIdG1ocY5LnZylnN/6KXiJxyPvKg7y1Jnai732wdnrjXazcvNiQkRnj5FY8WP6JRa3K4doCReA4nhj7w==" type="application/javascript" data-module-id="./chunk-stacks-input-config-view.js" data-src="https://github.githubassets.com/assets/chunk-stacks-input-config-view-68d01c14.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-kbG4tp4Eb0D31U2Z8EaqzgxQQ1kUOOXU6Evcw29Nw/gTlFp+YfQSbyx45jV2gopBJ+EYVoNSwIHWKiYkobp35A==" type="application/javascript" data-module-id="./chunk-community-contributions.js" data-src="https://github.githubassets.com/assets/chunk-community-contributions-91b1b8b6.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Ln+QCbuZ/R66lYDA/uV46yzWS3x4BcV6HmIHSucbDnhog/t5DZuSyZ4o8dV1g3XQb+c0FmTH9w9m9p4vTDPLEg==" type="application/javascript" data-module-id="./chunk-discussion-page-views.js" data-src="https://github.githubassets.com/assets/chunk-discussion-page-views-2e7f9009.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-gQ7BRqwcQBw8KL17yph8nQRZcDFj+oGkYkzEutQzuMADVxJWqUABJOgXBd9yz6XW1NdOaL1xmWOx00zda2UqGw==" type="application/javascript" data-module-id="./chunk-discussions-daily-contributors.js" data-src="https://github.githubassets.com/assets/chunk-discussions-daily-contributors-810ec146.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-U+lpbTsRbrZovXZmkkmyw9uU6C5g1b8BoN6Mq7BAhlHT6znG2QPlrHo7sBQrOCn/A3nhHOAvm2o/MhXDvPMUuw==" type="application/javascript" data-module-id="./chunk-discussions-new-contributors.js" data-src="https://github.githubassets.com/assets/chunk-discussions-new-contributors-53e9696d.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-TLQillrC8dagau7Smjy8GmWx3jhSvBCnkTPMStBL7tvLAaowBuGx38ICPFBdM+3ammiRlfXAaEe5OdpimWnnmQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-4cb42296.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-eHSwjhwcxnPBWzrxiC7rQ53wHZETtJQTXUqb6WPdetPBeznP2kqRbmlyCcMXCIrqxGXpzY34wFs8/rWHYjNLFw==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-7874b08e.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-jy/4bFk4EK3EzC+5m6JZNLLUew8SvtjCDsucaAkcxaen76e74RNAUKtt7OtC9lgshTpB8/J0VFeogLaaoQOPaA==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-8f2ff86c.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-L2jxBDS9QAN9O1qn7LqMcs0YJn/gF6xW73zSbWPRlVCEnG05dexaoJWkAG6RqALTnXLsj2GTUKnba6DATR828g==" type="application/javascript" data-module-id="./chunk-launch-code-element.js" data-src="https://github.githubassets.com/assets/chunk-launch-code-element-2f68f104.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-cvjyIYhR2ZkuFAXHYZSjPTc5wXYOdISgqbXw69CXpDXdxffXmXuzjCcGJNVk3mDNYsVH4Q9sb2UMNPFrNxxRUQ==" type="application/javascript" data-module-id="./chunk-metric-selection-element.js" data-src="https://github.githubassets.com/assets/chunk-metric-selection-element-72f8f221.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-/2Oeznu4Qh8QuYb4OvlxCrx/tIfHWnJrhjNFW7MOl0nRMSVUPowbUJ4F+HpdkepXw/OZkF22CN7CN1dRv8bJmQ==" type="application/javascript" data-module-id="./chunk-severity-calculator-element.js" data-src="https://github.githubassets.com/assets/chunk-severity-calculator-element-ff639ece.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-qyKiiHoQgmZhPRV7QexCydpjeAl9ryNe0g8r+9eaXogC2a6R4iOXRVZvJLv0rDwACJHhba6t/FFm67Q/5vXypA==" type="application/javascript" data-module-id="./chunk-command-palette-page-element.js" data-src="https://github.githubassets.com/assets/chunk-command-palette-page-element-ab22a288.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-7tuVhi/5l3tU55d+BrN6T/sfSnp/K+AOJxNIaiqjsSndTpU/V/z7+nBgEbCtZqiJoTv0DAQvYiVYbT0RsYiYPg==" type="application/javascript" data-module-id="./chunk-command-palette-page-stack-element.js" data-src="https://github.githubassets.com/assets/chunk-command-palette-page-stack-element-eedb9586.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-yXHkwiNZgB6O0iSDKE8jrZzTtTyF8YdFFXHcemhWEPuN3sWs1PQrSwEh0Gw4/B9TIzUfvogbqlJ71yLLuqyM+Q==" type="application/javascript" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-c971e4c2.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-aGaoVKNIqNkSpelOnfn0UCDbQLW2XBUVVkOOgVZXFNDfgJgFQNMXALc0964DwIi9kYrkYQIShePOSMFo20hHkw==" type="application/javascript" data-module-id="./chunk-feature-callout-element.js" data-src="https://github.githubassets.com/assets/chunk-feature-callout-element-6866a854.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-qNDdxgftImxudCMmfMmcxMBXvelYxSupLrG9ehwER1lFAGR6AND7oYQV5AwDd6+ebC75Pag2r8vRkMpZMuicPA==" type="application/javascript" data-module-id="./chunk-codespaces-policy-form-element.js" data-src="https://github.githubassets.com/assets/chunk-codespaces-policy-form-element-a8d0ddc6.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-+aCVCMGHjL+zXInuzIJ4VEykZcUNHS0rSsd1wj/21i2qS3C3J3ErL/8hYR8E+j9+qIRzpyJyKTYlCgajVbFL3g==" type="application/javascript" data-module-id="./chunk-action-list-element.js" data-src="https://github.githubassets.com/assets/chunk-action-list-element-f9a09508.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-MIJV83XLkjlcln6mu7u+tcsqh6pQ/tvgAwB0SWaoE/CudwHW2PfC9SB2/gGde1iBpEZxtRzjtrQWTP+FTPpbRw==" type="application/javascript" data-module-id="./chunk-memex-project-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-memex-project-picker-element-308255f3.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ooYcnNLBDnMePhMvdQEQiItFZowYg4gwklGZGCrAWPW1LCxePPkzB1kr8U3Bay0NPKYEDmICeXBqqDPd8EDmqA==" type="application/javascript" data-module-id="./chunk-project-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-project-picker-element-a2861c9c.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-YYzSijUU1oA10iMuvfzSHMK7vrQzu8aiLpIfD13kpcq2KVMqdOrIASINY5sBUNPNFZbSLKmBfTcEXEKVcQZHfQ==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-618cd28a.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-6JUQHgkTqBaCCdDugMcO4fQ8YxUHk+m6rwVp2Wxa4FMVz6BbBMPOzGluT4wBq8NTUcFv6DnXSOnt5e85jNgpGg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-e895101e.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-3W46fSBMvt8hnBUTSCHAAPbt4DHI5VXdI2qT0YMyv8sco5NvjmGHp2M0OlTNxepPEOb8LCplxxzCwrgMubsIug==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-dd6e3a7d.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-VQRofBwNZhBa4vBuw0P5bjjlVtO2R+l1M0TOfMZHX1bB7xy//CFwqmyaL24rLfgLx8sahKZ7eEw1o+nkFoUzNA==" type="application/javascript" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-5504687c.js"></script>
-        <script crossorigin="anonymous" defer="defer" integrity="sha512-CV0wgv2Pm/6zgA3m4XDn4nFf/k7Jypl+gNPsnCYiivAuiPcb7C/96s4zZhUGOa12xoTtk9TnUO/IEbua13B96Q==" type="application/javascript" src="https://github.githubassets.com/assets/editor-095d3082.js"></script>
-
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-5hd76BdyEBqN1fqF0tl/x8U+vJYYel4AapBR/mrSoL0nj/XeQ0ZAuao4ZhT/fwK5MRh9JCqAy/K8t1zC300z1Q==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-e6177be8.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-cv7GVhHxv4qwO1Bq52XpTxS/g0LxIGXtRgFBz2rBPOMpRQBo/vJQ4ILl8h1iU6xoBXpXCjenPE5gWGe/BtXz7g==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-72fec656.js"></script>
-
-  <meta name="viewport" content="width=device-width">
-  
-  <title>New File</title>
-    <meta name="description" content="Config files for my GitHub profile. Contribute to parthdhokane007/parthdhokane007 development by creating an account on GitHub.">
-    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
-  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-  <meta property="fb:app_id" content="1401488693436528">
-  <meta name="apple-itunes-app" content="app-id=1477376905">
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/acec8e9e7589af566ad4269de554c028d03976186fc64ccdea34646d55c4546f/parthdhokane007/parthdhokane007"><meta name="twitter:site" content="@github"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="New File · parthdhokane007/parthdhokane007"><meta name="twitter:description" content="Config files for my GitHub profile. Contribute to parthdhokane007/parthdhokane007 development by creating an account on GitHub.">
-    <meta property="og:image" content="https://opengraph.githubassets.com/acec8e9e7589af566ad4269de554c028d03976186fc64ccdea34646d55c4546f/parthdhokane007/parthdhokane007"><meta property="og:image:alt" content="Config files for my GitHub profile. Contribute to parthdhokane007/parthdhokane007 development by creating an account on GitHub."><meta property="og:image:width" content="1200"><meta property="og:image:height" content="600"><meta property="og:site_name" content="GitHub"><meta property="og:type" content="object"><meta property="og:title" content="New File · parthdhokane007/parthdhokane007"><meta property="og:url" content="https://github.com/parthdhokane007/parthdhokane007"><meta property="og:description" content="Config files for my GitHub profile. Contribute to parthdhokane007/parthdhokane007 development by creating an account on GitHub.">
-    
-
-
-
-    
-
-  <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/97541553/ws?session=eyJ2IjoiVjMiLCJ1Ijo5NzU0MTU1MywicyI6ODEzMjc1Njk3LCJjIjoyMzcyNzg0Njc3LCJ0IjoxNjQxOTE4NjQxfQ==--a2d618ac224d43913d5afca71444c83261863854534912d0a7d749277c95de3c" data-refresh-url="/_alive" data-session-id="105fa895a3094c35b9ab045b891cab0836b4bd9a722ff2b0a535c2664dcc5fa6">
-    <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-9c817d86.js">
-  <link rel="sudo-modal" href="/sessions/sudo_modal">
-
-  <meta name="request-id" content="0889:7774:C3D225:FF8B30:61DDB0B0" data-pjax-transient="true"><meta name="html-safe-nonce" content="65375411c6aad71124f3708fbbc436a2760cc27ede1e6ac2a67cb553305b4cb9" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS8iLCJyZXF1ZXN0X2lkIjoiMDg4OTo3Nzc0OkMzRDIyNTpGRjhCMzA6NjFEREIwQjAiLCJ2aXNpdG9yX2lkIjoiMTY5NTE4ODA4MjU4MzUxNDU3MyIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"><meta name="visitor-hmac" content="540b8b97d6f8ba31790cce1f30fc9d887f6f9d38072b08a0d8a15430a7b685c6" data-pjax-transient="true">
-
-    <meta name="hovercard-subject-tag" content="repository:446896293" data-pjax-transient="">
-
-
-  <meta name="github-keyboard-shortcuts" content="repository" data-pjax-transient="true">
-
-  
-
-  <meta name="selected-link" value="repo_source" data-pjax-transient="">
-
-    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
-  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
-  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
-  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
-
-<meta name="octolytics-url" content="https://collector.githubapp.com/github/collect"><meta name="octolytics-actor-id" content="97541553"><meta name="octolytics-actor-login" content="parthdhokane007"><meta name="octolytics-actor-hash" content="b09fcea326b5f2290075d9d470c64c57a07ff6af2c542443a6416f0cc4aa59be">
-
-  <meta name="analytics-location" content="/<user-name>/<repo-name>/blob/new" data-pjax-transient="true">
-
-  
-
-
-
-
-
-
-  
-
-      <meta name="hostname" content="github.com">
-    <meta name="user-login" content="parthdhokane007">
-
-
-      <meta name="expected-hostname" content="github.com">
-
-      <meta name="js-proxy-site-detection-payload" content="YjIyMzUzZWM4N2NkNzE5Njk3ZGQxMzgyNTk1M2NlOGQxYTg1ZTI3OTllYjViZDZjYjM5ZjYxYzkxNmZiOTJhNXx7InJlbW90ZV9hZGRyZXNzIjoiNDkuMzYuMzMuMyIsInJlcXVlc3RfaWQiOiIwODg5Ojc3NzQ6QzNEMjI1OkZGOEIzMDo2MUREQjBCMCIsInRpbWVzdGFtcCI6MTY0MTkxODY0MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
-      <meta name="keyboard-shortcuts-preference" content="all">
-      <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
-
-    <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
-
-
-  <meta http-equiv="x-pjax-version" content="f4945c4acc7e3ed293fff017940c712aab1464a818a2edb33dd1b1eccebbc02d">
-  <meta http-equiv="x-pjax-csp-version" content="9ea82e8060ac9d44365bfa193918b70ed58abd9413362ba412abb161b3a8d1b6">
-  <meta http-equiv="x-pjax-css-version" content="a43be32f5940494832241e9853f137580d8972ed19f96baa14eaabeff54cd2a7">
-  <meta http-equiv="x-pjax-js-version" content="8c28e30786637a1fde6bc7c6cd6290d1490f0066f576b8882f38b01c0a4e2142">
-  
-
-    
-  <meta name="go-import" content="github.com/parthdhokane007/parthdhokane007 git https://github.com/parthdhokane007/parthdhokane007.git">
-
-  <meta name="octolytics-dimension-user_id" content="97541553"><meta name="octolytics-dimension-user_login" content="parthdhokane007"><meta name="octolytics-dimension-repository_id" content="446896293"><meta name="octolytics-dimension-repository_nwo" content="parthdhokane007/parthdhokane007"><meta name="octolytics-dimension-repository_public" content="true"><meta name="octolytics-dimension-repository_is_fork" content="false"><meta name="octolytics-dimension-repository_network_root_id" content="446896293"><meta name="octolytics-dimension-repository_network_root_nwo" content="parthdhokane007/parthdhokane007">
-
-
-
-
-
-  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
-
-  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
-
-  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
-
-  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
-  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon-dark.png">
-  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon-dark.svg">
-
-<meta name="theme-color" content="#1e2327">
-<meta name="color-scheme" content="light dark">
-
-
-  <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
-
-  </head>
-
-  <body class="logged-in env-production page-responsive page-edit-blob intent-mouse" style="word-wrap: break-word;">
-    
-
-    <div class="position-relative js-header-wrapper ">
-      <a href="#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
-      <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
-    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
-</span>      
+    <svg REGISTRATION DATE=Near in december"" aria-hidden="true" viewBox="0 0 16 16" version="12.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+      <<Firewall__Start at the penitration process>>
       
-
-
-        <script crossorigin="anonymous" defer="defer" integrity="sha512-d8n6wb9Qnk4t3FdQ6EZn/m0xG4YFWF2+IqyQQxRGbZe64tfL2u4xUtzXX54UqLiSsDGP16/cup3h0gQx7n/PGQ==" type="application/javascript" src="https://github.githubassets.com/assets/command-palette-77c9fac1.js"></script>
-
-            <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner">
-    <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
-      <a class="Header-link " href="https://github.com/" data-hotkey="g d" aria-label="Homepage " data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/parthdhokane007/parthdhokane007/new/main?filename=README.md&amp;path=%2F&amp;value=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40parthdhokane007%0A-+%F0%9F%91%80+I%E2%80%99m+interested+in+...%0A-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...%0A-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...%0A-+%F0%9F%93%AB+How+to+reach+me+...%0A%0A%3C%21---%0Aparthdhokane007%2Fparthdhokane007+is+a+%E2%9C%A8+special+%E2%9C%A8+repository+because+its+%60README.md%60+%28this+file%29+appears+on+your+GitHub+profile.%0AYou+can+click+the+Preview+link+to+take+a+look+at+your+changes.%0A---%3E%0A&quot;,&quot;user_id&quot;:97541553}}" data-hydro-click-hmac="54e75df4e41aa7425deeb6d6ebfc25e588a80c5447903cda22dffebb16937159" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}">
-  <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
 </svg>
 </a>
@@ -229,7 +13,7 @@ Object.defineProperty(window.navigator, 'userAgent', { get: function(){ return '
 
     <div class="Header-item d-md-none">
       <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="Header-link js-details-target btn-link">  <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-three-bars">
-    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+    <path fill-rule="rihu_asharma" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
 </svg>
 </button>    </div>
 
@@ -240,9 +24,9 @@ Object.defineProperty(window.navigator, 'userAgent', { get: function(){ return '
 
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="446896293" data-scoped-search-url="/parthdhokane007/parthdhokane007/search" data-owner-scoped-search-url="/users/parthdhokane007/search" data-unscoped-search-url="/search" action="/parthdhokane007/parthdhokane007/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="446896293" data-scoped-search-url="/mitnic/parthdhokane007/search" data-owner-scoped-search-url="/users/parthdhokane007/search" data-unscoped-search-url="/search" action="/parthdhokane007/parthdhokane007/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
-        <input type="text" class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable" data-hotkey="s,/" name="q" data-test-selector="nav-search-input" placeholder="Search or jump to…" data-unscoped-placeholder="Search or jump to…" data-scoped-placeholder="Search or jump to…" autocapitalize="off" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-autocomplete="list" aria-controls="jump-to-results" aria-label="Search or jump to…" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" spellcheck="false" autocomplete="off">
+        <input type="text" class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable" data-hotkey="s,/" name="q" data-test-selector="nav-search-input" rehu_asharma="Search or jump to…" data-unscoped-placeholder="Search or jump to…" data-scoped-placeholder="Search or jump to…" autocapitalize="off" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-autocomplete="list" aria-controls="jump-to-results" aria-label="Search or jump to…" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" spellcheck="false" autocomplete="off">
         <input type="hidden" value="JiFhO06Fr34NCMxsjYv7E9j8iFrxcrqUBt_sLUwQ6cGxm9TxaIHGZIhzDQFqwv7BHHDRNrz8dDeUI9ciYgbyTw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf">
         <input type="hidden" class="js-site-search-type-field" name="type">
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
